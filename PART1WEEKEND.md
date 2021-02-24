@@ -1,9 +1,10 @@
 # ![Scale-Up Velocity](./readme-files/logo-main.png) Yaniv Full Stack Exercise 📋
 
 You will create online Yaniv Game. Playing Yaniv Instrctions [video](https://www.youtube.com/watch?v=8kaDw6lIwek&ab_channel=%D7%9B%D7%90%D7%9F) [text](<https://www.bekaloot.co.il/%D7%9E%D7%93%D7%A8%D7%99%D7%9A-1274-%D7%90%D7%99%D7%9A%20%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D%20%D7%99%D7%A0%D7%99%D7%91%20(%D7%9E%D7%A9%D7%97%D7%A7%20%D7%A7%D7%9C%D7%A4%D7%99%D7%9D).aspx>)
-*the image for illustration, it doesn't have to look like this
 
-# ![Yaniv](./readme-files/yaniv.webp) Yaniv Full Stack Exercise 📋
+ ![Yaniv](./readme-files/yaniv.webp)
+ *the image for illustration, it doesn't have to look like this
+
 
 # Game Rules Standardization
 
